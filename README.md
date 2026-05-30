@@ -66,9 +66,9 @@ class Abhinav:
 
 | Degree | Institution | Duration |
 |----------|-------------|----------|
-| B.Tech | Your College Name | 2024 - Present |
-| Intermediate | Your College Name | Completed |
-| SSC | Your School Name | Completed |
+| B.Tech | GuruNanak Institute of Technology | 2024 - Present | 8.5CGPA |
+| Intermediate | Ratna Junior College | 2024 | 97.5% |
+| SSC | Shree Hanuman Vyayam Shala High School | 2022 | 9.5CGPA |
 
 ---
 
