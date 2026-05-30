@@ -141,7 +141,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavvv12&
 
 🏅 Developing Real-World Projects
 
-🏅 Learning Java Development
+🏅 Learning Python Development
 
 ---
 
