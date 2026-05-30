@@ -1,4 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&text=ABHINAV&fontSize=65&color=0:141E30,100:243B55&fontColor=ffffff"/>
+┌──────────────────────────────────────────┐
+│ $ whoami                                 │
+│ Abhinav                                  │
+│                                           │
+│ $ current_status                         │
+│ Building cool stuff...                   │
+│                                           │
+│ $ skills                                 │
+│ Java • Python • HTML • CSS • JavaScript  │
+│                                           │
+│ $ mission                                │
+│ Turning ideas into reality 🚀            │
+└──────────────────────────────────────────┘
 
 <h1 align="center">⚡ Abhinav ⚡</h1>
 
