@@ -62,6 +62,16 @@ class Abhinav:
 </p>
 
 ---
+# 🎓 Education
+
+| Degree | Institution | Duration |
+|----------|-------------|----------|
+| B.Tech | Your College Name | 2024 - Present |
+| Intermediate | Your College Name | Completed |
+| SSC | Your School Name | Completed |
+
+---
+
 
 # 🌟 Featured Projects
 
