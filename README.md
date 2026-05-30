@@ -3,39 +3,40 @@
 <h1 align="center">⚡ Abhinav ⚡</h1>
 
 <h3 align="center">
-Frontend Developer • Java Programmer • DSA Learner
+FullStack Developer • Python Programmer • DSA Learner
 </h3>
 
 <p align="center">
-Building ideas into beautiful and functional web experiences 🚀
+Building ideas into beautiful and functional web experiences 
 </p>
 
 ---
 
 # 💫 About Me
 
-```java
-class Abhinav {
+```Python
+class Abhinav:
 
-    String role = "B.Tech Student";
+    role = "B.Tech Student"
     
-    String[] skills = {
+    skills = [
         "Java",
         "Python",
         "HTML",
         "CSS",
         "JavaScript",
+        "Numpy",
+        "Pandas",
+        "SQL",
         "Git",
         "GitHub"
-    };
+    ]
 
-    String currentFocus =
-        "Frontend Development + DSA";
+    currentFocus =
+        "Development + DSA"
 
-    String goal =
-        "Become a Software Engineer";
-
-}
+    goal =
+        "Become a Software Engineer"
 ```
 
 ---
