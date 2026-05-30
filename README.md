@@ -3,7 +3,7 @@
 <h1 align="center">⚡ Abhinav ⚡</h1>
 
 <h3 align="center">
-FullStack Developer • Python Programmer • DSA Learner
+FullStack Developer • Python Programmer • DSA Learner • Open Source Contributor
 </h3>
 
 <p align="center">
