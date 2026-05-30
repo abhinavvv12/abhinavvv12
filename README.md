@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
 
-<h3 align="center">B.Tech Student | Java Developer | DSA Learner</h3>
+<h3 align="center">B.Tech Student | Web Developer | DSA Learner</h3>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 2nd Year B.Tech Student
-- 💻 Learning Java, DSA and Web Development
+- 💻 Learning Python, DSA and Web Development
 - 🌱 Currently building Frontend Projects
 - 🎯 Goal: Become a Software Engineer
 - 📍 India
