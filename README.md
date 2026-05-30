@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&text=ABHINAV&fontSize=60&color=0:434343,100:000000&fontColor=58A6FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&text=ABHINAV&fontSize=65&color=0:141E30,100:243B55&fontColor=ffffff"/>
 
 <h1 align="center">⚡ Abhinav ⚡</h1>
 
