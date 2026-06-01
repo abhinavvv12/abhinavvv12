@@ -2,9 +2,9 @@
 
 <h1 align="center">⚡ Abhinav ⚡</h1>
 
-<h3 align="center">
-FullStack Developer • Python Programmer • DSA Learner • Open Source Contributor
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=1800&pause=500&color=58A6FF&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Building+Projects;%F0%9F%8C%B1+DSA+Learner;%F0%9F%A4%9D+Open+Source+Contributor;%E2%98%95+FullStack+Developer;%F0%9F%90%8D+Python+Programmer" />
+</p>
 
 <p align="center">
 Building ideas into beautiful and functional web experiences 
