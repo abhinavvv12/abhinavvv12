@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1E3C72,100:2A5298&text=ABHINAV&fontColor=ffffff&fontSize=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1E3C72,100:2A5298&text=ABHINAVVVVV&fontColor=ffffff&fontSize=60&animation=fadeIn"/>
 
 <h1 align="center">⚡ Abhinav ⚡</h1>
 
@@ -152,6 +152,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavvv12&
 🏅 Developing Real-World Projects
 
 🏅 Learning Python Development
+
+🏅 Open Source Contributor
 
 ---
 
