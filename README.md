@@ -64,7 +64,13 @@ class Abhinav:
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,api"/>
 </p>
 
 ---
