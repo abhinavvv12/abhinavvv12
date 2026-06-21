@@ -61,6 +61,12 @@ class Abhinav:
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,mongodb"/>
+</p>
+
 ---
 # 🎓 Education
 
